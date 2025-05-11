@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+  
+}
+
+.container {
+    text-align: center;
+}
+
+.pomodoro-div {
+    font-weight: bolder;
+    font-size: xx-large;
+    border: 2px dotted red;
+    padding:0 60px 0 60px;
+    border-radius: 20px;
+}
